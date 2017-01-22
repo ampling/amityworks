@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ampling.github.io/amityworks/</loc>
+    <loc>/</loc>
     <lastmod>2017-01-21T16:18:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ampling.github.io/amityworks/post/post-title/</loc>
+    <loc>/post/post-title/</loc>
     <lastmod>2017-01-21T16:18:42-05:00</lastmod>
   </url>
   
