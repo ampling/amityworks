@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amity Works</title>
-    <link>index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Amity Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Sat, 21 Jan 2017 16:18:42 -0500</lastBuildDate>
-    <atom:link href="index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction</title>
@@ -18,7 +18,7 @@
       <guid>/post/post-title/</guid>
       <description>&lt;p&gt;At the dawn of the digital age, the Terran homeworld was in a period of intense ideological turmoil. In the first great war of ideas, collectivism was as pervasive as air and water. Nation states persistently moved in the direction of a single global civilization. Might made right and individuals fell into despair.&lt;/p&gt;
 
-&lt;p&gt;Those individuals who rightly understood natural law were few and tended to mind their own business and live as they ought. If only they knew sooner, a way to connect. If only they had a way to empower others of a like mind - a way to see amity works.&lt;/p&gt;
+&lt;p&gt;Those individuals who understood natural law were few and far between. What they lacked in organation, they made up for in raw imagination. Many times tranformation was within grasp, if only they could connect - if only they had a way to see amity works.&lt;/p&gt;
 </description>
     </item>
     
